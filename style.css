@@ -50,8 +50,13 @@ body {
 }
 
 .main-content > .card-links > .profile-picture {
+    background-image: url('./assets/images/avatar-tiago.jpg');
+    background-position: center;
+    background-size: cover;
     border-radius: 50%;
     width: 100px;
+    height: 100px;
+
 }
 
 .main-content > .card-links > h2 {
