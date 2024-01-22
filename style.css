@@ -106,3 +106,9 @@ body {
     text-decoration: none;
     font-weight: 700;
 }
+
+@media screen and (max-width: 375px) {
+    p {
+        font-size: 12px;
+    }
+}
